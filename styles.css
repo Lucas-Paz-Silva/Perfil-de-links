@@ -8,7 +8,7 @@
 
 /* Fundo escuro */
 body {
-    background-color: #141414;
+    background-color: #ffffff;
     color: white;
     display: flex;
     justify-content: center;
@@ -19,7 +19,7 @@ body {
 
 /* Container principal */
 .container {
-    background-color: #1f1f1f;
+    background-color: #646363;
     padding: 20px;
     border-radius: 12px;
     width: 90%;
@@ -57,7 +57,7 @@ body {
 
 .btn {
     display: block;
-    background-color: #333;
+    background-color: #484848;
     color: white;
     text-decoration: none;
     padding: 10px;
